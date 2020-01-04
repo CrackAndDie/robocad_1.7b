@@ -30,3 +30,9 @@ To open viewer you need to go to the folder called **"view"** and then start **"
   right sharp' distance
 #### output_var_1-3
   you can pass the value of a variable and see it
+![](https://github.com/CrackAndDie/robocad_1.7b/blob/master/WhatsApp%20Image%202020-01-04%20at%2019.47.50.jpeg)
+#### Default scale
+  return view window scale to default
+#### Output terminal
+  self output terminal
+
