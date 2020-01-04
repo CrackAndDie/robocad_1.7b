@@ -8,5 +8,25 @@ To open viewer you need to go to the folder called **"view"** and then start **"
 ## new additions
 ### now u can scale field
 ![](https://github.com/CrackAndDie/robocad_1.7b/blob/master/WhatsApp%20Image%202020-01-04%20at%2019.36.57.jpeg)
-
-
+#### view_scale 
+  view window scale
+#### robocad_x
+  X coordinate of robocad
+#### robocad_y
+  Y coordinate of robocad
+#### rotation
+  robocad' rotation
+#### pos_reached
+  True if position reached
+#### fps_view
+  view window' fps
+#### right_us
+  right ultrasonic' distance
+#### left_us
+  left ultrasonic' distance
+#### right_psd
+  right sharp' distance
+#### left_psd
+  right sharp' distance
+#### output_var_1-3
+  you can pass the value of a variable and see it
