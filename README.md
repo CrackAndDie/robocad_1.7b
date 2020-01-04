@@ -6,7 +6,7 @@ At first you need to open IDLE in the folder called **"gui"** and start **"gui.e
 To open viewer you need to go to the folder called **"view"** and then start **"view.exe"**  
 
 ## new additions
-### now u can scale field
+### new "gui"'s functions
 ![](https://github.com/CrackAndDie/robocad_1.7b/blob/master/WhatsApp%20Image%202020-01-04%20at%2019.36.57.jpeg)
 #### view_scale 
   view window scale
