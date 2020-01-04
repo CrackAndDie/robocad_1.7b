@@ -36,4 +36,6 @@ To open viewer you need to go to the folder called **"view"** and then start **"
   return view window scale to default
 #### Output terminal
   self output terminal
+  
+![](https://github.com/CrackAndDie/robocad_1.7b/blob/master/WhatsApp%20Image%202020-01-04%20at%2019.52.34.jpeg)
 
