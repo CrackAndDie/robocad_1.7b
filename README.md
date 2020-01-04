@@ -39,4 +39,4 @@ To open viewer you need to go to the folder called **"view"** and then start **"
   
 ### now you can scale view window
 ![](https://github.com/CrackAndDie/robocad_1.7b/blob/master/WhatsApp%20Image%202020-01-04%20at%2019.52.34.jpeg)  
-
+![](https://github.com/CrackAndDie/robocad_1.7b/blob/master/WhatsApp%20Image%202020-01-04%20at%2019.53.00.jpeg)
